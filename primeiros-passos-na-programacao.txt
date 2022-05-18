@@ -1,0 +1,10 @@
+No mês de maio de 2022 iniciamos os estudos na Programação.
+Motivação em alta e vamos que vamos!
+
+Comandos úteis no Git:
+git unit
+git status
+git add -A ou . ou *
+git commit -m
+git push 
+git pull
