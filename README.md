@@ -1,2 +1,3 @@
-# primeiro-desafio-dio-bootcamp-spread
-Criar um repositório utilizando o Git/GitHub
+# Primeiro Desafio
+
+Constuindo meu primeiro repositório no Git/GitHub.
